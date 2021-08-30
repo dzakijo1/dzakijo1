@@ -1,4 +1,4 @@
-![My card name](https://cardivo.vercel.app/api?name=Dzaki%20Jo%20W&description=Developer&image=https://avatars.githubusercontent.com/u/27538077?v=4&backgroundColor=%23293B5F&instagram=dzaki_jo&github=dzakijo1&twitter=petualangkusam&pattern=topography&colorPattern=%2347597E&fontColor=%23ddd&iconColor=%23fff&opacity=0.3)
+![My card name](https://cardivo.vercel.app/api?name=Dzaki%20Jo%20&description=Developer&image=https://avatars.githubusercontent.com/u/27538077?v=4&backgroundColor=%23293B5F&instagram=dzaki_jo&github=dzakijo1&twitter=petualangkusam&pattern=topography&colorPattern=%2347597E&fontColor=%23ddd&iconColor=%23fff&opacity=0.3)
 
 - 🔭 I’m currently working on my personal projects, you can check <a href="http://aliftriadi.xyz">my personal website</a>
 - 🌱 I’m currently learning GO, JS
